@@ -1,4 +1,4 @@
-baseurl = "http://loganbuchy.com/"
+baseurl = "https://loganbuchy.com/"
 languageCode = "en-us"
 title = "Just another blog"
 newContentEditor = "atom"
