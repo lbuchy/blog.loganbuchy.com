@@ -1,3 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://loganbuchy.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Just another blog"
+newContentEditor = "atom"
+theme = "nofancy"
+pygmentsStyle = "native"
